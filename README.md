@@ -1,2 +1,2 @@
 # EPM-codes
-we can share our codes fro calibration, fitting, background subcractions ...
+Here we can share codes and manuals which might be usefull for everyone

@@ -1,2 +1,4 @@
 # EPM-codes
-Here we can share codes and manuals which might be usefull for everyone
+Codes and manuals for the EPM group
+
+Please short all the codes, data and manuals of the different devices in the propper 
